@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pratham0804/Leetcode_Journey/tree/master/0001-two-sum) |
+| [0016-3sum-closest](https://github.com/pratham0804/Leetcode_Journey/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/pratham0804/Leetcode_Journey/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/pratham0804/Leetcode_Journey/tree/master/0053-maximum-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pratham0804/Leetcode_Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/pratham0804/Leetcode_Journey/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/pratham0804/Leetcode_Journey/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
@@ -52,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/pratham0804/Leetcode_Journey/tree/master/0053-maximum-subarray) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/pratham0804/Leetcode_Journey/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
