@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/pratham0804/Leetcode_Journey/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/pratham0804/Leetcode_Journey/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/pratham0804/Leetcode_Journey/tree/master/1646-kth-missing-positive-number) |
+| [2737-row-with-maximum-ones](https://github.com/pratham0804/Leetcode_Journey/tree/master/2737-row-with-maximum-ones) |
 | [3221-find-the-peaks](https://github.com/pratham0804/Leetcode_Journey/tree/master/3221-find-the-peaks) |
 | [3647-zero-array-transformation-iii](https://github.com/pratham0804/Leetcode_Journey/tree/master/3647-zero-array-transformation-iii) |
 ## Binary Search
@@ -104,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/pratham0804/Leetcode_Journey/tree/master/0013-roman-to-integer) |
+## Matrix
+|  |
+| ------- |
+| [2737-row-with-maximum-ones](https://github.com/pratham0804/Leetcode_Journey/tree/master/2737-row-with-maximum-ones) |
 <!---LeetCode Topics End-->
