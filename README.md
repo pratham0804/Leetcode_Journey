@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/pratham0804/Leetcode_Journey/tree/master/0053-maximum-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pratham0804/Leetcode_Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/pratham0804/Leetcode_Journey/tree/master/0162-find-peak-element) |
+| [0410-split-array-largest-sum](https://github.com/pratham0804/Leetcode_Journey/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pratham0804/Leetcode_Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/pratham0804/Leetcode_Journey/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/pratham0804/Leetcode_Journey/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pratham0804/Leetcode_Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/pratham0804/Leetcode_Journey/tree/master/0162-find-peak-element) |
+| [0410-split-array-largest-sum](https://github.com/pratham0804/Leetcode_Journey/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pratham0804/Leetcode_Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/pratham0804/Leetcode_Journey/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/pratham0804/Leetcode_Journey/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/pratham0804/Leetcode_Journey/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/pratham0804/Leetcode_Journey/tree/master/0053-maximum-subarray) |
+| [0410-split-array-largest-sum](https://github.com/pratham0804/Leetcode_Journey/tree/master/0410-split-array-largest-sum) |
 ## Stack
 |  |
 | ------- |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/pratham0804/Leetcode_Journey/tree/master/0410-split-array-largest-sum) |
 | [3647-zero-array-transformation-iii](https://github.com/pratham0804/Leetcode_Journey/tree/master/3647-zero-array-transformation-iii) |
 ## Heap (Priority Queue)
 |  |
@@ -81,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/pratham0804/Leetcode_Journey/tree/master/0410-split-array-largest-sum) |
 | [3647-zero-array-transformation-iii](https://github.com/pratham0804/Leetcode_Journey/tree/master/3647-zero-array-transformation-iii) |
 ## Linked List
 |  |
