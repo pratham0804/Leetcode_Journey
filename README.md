@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/pratham0804/Leetcode_Journey/tree/master/0025-reverse-nodes-in-k-group) |
+| [0237-delete-node-in-a-linked-list](https://github.com/pratham0804/Leetcode_Journey/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
