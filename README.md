@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/pratham0804/Leetcode_Journey/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/pratham0804/Leetcode_Journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pratham0804/Leetcode_Journey/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/pratham0804/Leetcode_Journey/tree/master/0160-intersection-of-two-linked-lists) |
 ## Enumeration
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/pratham0804/Leetcode_Journey/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/pratham0804/Leetcode_Journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pratham0804/Leetcode_Journey/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/pratham0804/Leetcode_Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/pratham0804/Leetcode_Journey/tree/master/0908-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/pratham0804/Leetcode_Journey/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/pratham0804/Leetcode_Journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pratham0804/Leetcode_Journey/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/pratham0804/Leetcode_Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/pratham0804/Leetcode_Journey/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/pratham0804/Leetcode_Journey/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/pratham0804/Leetcode_Journey/tree/master/0908-middle-of-the-linked-list) |
