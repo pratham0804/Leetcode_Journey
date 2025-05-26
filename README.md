@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/pratham0804/Leetcode_Journey/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/pratham0804/Leetcode_Journey/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/pratham0804/Leetcode_Journey/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/pratham0804/Leetcode_Journey/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/pratham0804/Leetcode_Journey/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/pratham0804/Leetcode_Journey/tree/master/0053-maximum-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pratham0804/Leetcode_Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/pratham0804/Leetcode_Journey/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/pratham0804/Leetcode_Journey/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/pratham0804/Leetcode_Journey/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/pratham0804/Leetcode_Journey/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/pratham0804/Leetcode_Journey/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/pratham0804/Leetcode_Journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pratham0804/Leetcode_Journey/tree/master/0142-linked-list-cycle-ii) |
