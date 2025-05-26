@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/pratham0804/Leetcode_Journey/tree/master/0053-maximum-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pratham0804/Leetcode_Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/pratham0804/Leetcode_Journey/tree/master/0162-find-peak-element) |
+| [0219-contains-duplicate-ii](https://github.com/pratham0804/Leetcode_Journey/tree/master/0219-contains-duplicate-ii) |
 | [0410-split-array-largest-sum](https://github.com/pratham0804/Leetcode_Journey/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pratham0804/Leetcode_Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/pratham0804/Leetcode_Journey/tree/master/0907-koko-eating-bananas) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/pratham0804/Leetcode_Journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pratham0804/Leetcode_Journey/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pratham0804/Leetcode_Journey/tree/master/0160-intersection-of-two-linked-lists) |
+| [0219-contains-duplicate-ii](https://github.com/pratham0804/Leetcode_Journey/tree/master/0219-contains-duplicate-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/pratham0804/Leetcode_Journey/tree/master/0231-power-of-two) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/pratham0804/Leetcode_Journey/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
