@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pratham0804/Leetcode_Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/pratham0804/Leetcode_Journey/tree/master/0162-find-peak-element) |
 | [0219-contains-duplicate-ii](https://github.com/pratham0804/Leetcode_Journey/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/pratham0804/Leetcode_Journey/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/pratham0804/Leetcode_Journey/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pratham0804/Leetcode_Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/pratham0804/Leetcode_Journey/tree/master/0907-koko-eating-bananas) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/pratham0804/Leetcode_Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/pratham0804/Leetcode_Journey/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/pratham0804/Leetcode_Journey/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/pratham0804/Leetcode_Journey/tree/master/0347-top-k-frequent-elements) |
 ## Enumeration
 |  |
 | ------- |
@@ -84,12 +86,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/pratham0804/Leetcode_Journey/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/pratham0804/Leetcode_Journey/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/pratham0804/Leetcode_Journey/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/pratham0804/Leetcode_Journey/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/pratham0804/Leetcode_Journey/tree/master/0018-4sum) |
+| [0347-top-k-frequent-elements](https://github.com/pratham0804/Leetcode_Journey/tree/master/0347-top-k-frequent-elements) |
 | [3647-zero-array-transformation-iii](https://github.com/pratham0804/Leetcode_Journey/tree/master/3647-zero-array-transformation-iii) |
 ## Greedy
 |  |
@@ -99,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/pratham0804/Leetcode_Journey/tree/master/0347-top-k-frequent-elements) |
 | [3647-zero-array-transformation-iii](https://github.com/pratham0804/Leetcode_Journey/tree/master/3647-zero-array-transformation-iii) |
 ## Prefix Sum
 |  |
@@ -166,4 +171,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/pratham0804/Leetcode_Journey/tree/master/0100-same-tree) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/pratham0804/Leetcode_Journey/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/pratham0804/Leetcode_Journey/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/pratham0804/Leetcode_Journey/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
