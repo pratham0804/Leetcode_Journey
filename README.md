@@ -146,4 +146,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/pratham0804/Leetcode_Journey/tree/master/0219-contains-duplicate-ii) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/pratham0804/Leetcode_Journey/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/pratham0804/Leetcode_Journey/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/pratham0804/Leetcode_Journey/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/pratham0804/Leetcode_Journey/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
