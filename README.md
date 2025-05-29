@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/pratham0804/Leetcode_Journey/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/pratham0804/Leetcode_Journey/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/pratham0804/Leetcode_Journey/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/pratham0804/Leetcode_Journey/tree/master/0125-valid-palindrome) |
