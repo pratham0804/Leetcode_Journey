@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/pratham0804/Leetcode_Journey/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/pratham0804/Leetcode_Journey/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/pratham0804/Leetcode_Journey/tree/master/0347-top-k-frequent-elements) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/pratham0804/Leetcode_Journey/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Enumeration
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/pratham0804/Leetcode_Journey/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/pratham0804/Leetcode_Journey/tree/master/0053-maximum-subarray) |
 | [0410-split-array-largest-sum](https://github.com/pratham0804/Leetcode_Journey/tree/master/0410-split-array-largest-sum) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/pratham0804/Leetcode_Journey/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Stack
 |  |
 | ------- |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/pratham0804/Leetcode_Journey/tree/master/0347-top-k-frequent-elements) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/pratham0804/Leetcode_Journey/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Quickselect
 |  |
 | ------- |
@@ -208,4 +211,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/pratham0804/Leetcode_Journey/tree/master/3201-distribute-candies-among-children-ii) |
+## Graph
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/pratham0804/Leetcode_Journey/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/pratham0804/Leetcode_Journey/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Memoization
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/pratham0804/Leetcode_Journey/tree/master/1986-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
