@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/pratham0804/Leetcode_Journey/tree/master/3201-distribute-candies-among-children-ii) |
 | [3221-find-the-peaks](https://github.com/pratham0804/Leetcode_Journey/tree/master/3221-find-the-peaks) |
 ## Two Pointers
 |  |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/pratham0804/Leetcode_Journey/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/pratham0804/Leetcode_Journey/tree/master/0231-power-of-two) |
+| [3201-distribute-candies-among-children-ii](https://github.com/pratham0804/Leetcode_Journey/tree/master/3201-distribute-candies-among-children-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -202,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/pratham0804/Leetcode_Journey/tree/master/0090-subsets-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/pratham0804/Leetcode_Journey/tree/master/3201-distribute-candies-among-children-ii) |
 <!---LeetCode Topics End-->
