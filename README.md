@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/pratham0804/Leetcode_Journey/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/pratham0804/Leetcode_Journey/tree/master/0234-palindrome-linked-list) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/pratham0804/Leetcode_Journey/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/pratham0804/Leetcode_Journey/tree/master/0410-split-array-largest-sum) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/pratham0804/Leetcode_Journey/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3647-zero-array-transformation-iii](https://github.com/pratham0804/Leetcode_Journey/tree/master/3647-zero-array-transformation-iii) |
 ## Heap (Priority Queue)
 |  |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/pratham0804/Leetcode_Journey/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/pratham0804/Leetcode_Journey/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/pratham0804/Leetcode_Journey/tree/master/0205-isomorphic-strings) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/pratham0804/Leetcode_Journey/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Math
 |  |
 | ------- |
