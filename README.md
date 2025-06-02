@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/pratham0804/Leetcode_Journey/tree/master/0053-maximum-subarray) |
 | [0410-split-array-largest-sum](https://github.com/pratham0804/Leetcode_Journey/tree/master/0410-split-array-largest-sum) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/pratham0804/Leetcode_Journey/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [3218-find-number-of-coins-to-place-in-tree-nodes](https://github.com/pratham0804/Leetcode_Journey/tree/master/3218-find-number-of-coins-to-place-in-tree-nodes) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/pratham0804/Leetcode_Journey/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Stack
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/pratham0804/Leetcode_Journey/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/pratham0804/Leetcode_Journey/tree/master/0018-4sum) |
 | [0347-top-k-frequent-elements](https://github.com/pratham0804/Leetcode_Journey/tree/master/0347-top-k-frequent-elements) |
+| [3218-find-number-of-coins-to-place-in-tree-nodes](https://github.com/pratham0804/Leetcode_Journey/tree/master/3218-find-number-of-coins-to-place-in-tree-nodes) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/pratham0804/Leetcode_Journey/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/pratham0804/Leetcode_Journey/tree/master/3647-zero-array-transformation-iii) |
 ## Greedy
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/pratham0804/Leetcode_Journey/tree/master/0347-top-k-frequent-elements) |
+| [3218-find-number-of-coins-to-place-in-tree-nodes](https://github.com/pratham0804/Leetcode_Journey/tree/master/3218-find-number-of-coins-to-place-in-tree-nodes) |
 | [3647-zero-array-transformation-iii](https://github.com/pratham0804/Leetcode_Journey/tree/master/3647-zero-array-transformation-iii) |
 ## Prefix Sum
 |  |
@@ -183,12 +186,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/pratham0804/Leetcode_Journey/tree/master/0100-same-tree) |
+| [3218-find-number-of-coins-to-place-in-tree-nodes](https://github.com/pratham0804/Leetcode_Journey/tree/master/3218-find-number-of-coins-to-place-in-tree-nodes) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/pratham0804/Leetcode_Journey/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/pratham0804/Leetcode_Journey/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/pratham0804/Leetcode_Journey/tree/master/0100-same-tree) |
+| [3218-find-number-of-coins-to-place-in-tree-nodes](https://github.com/pratham0804/Leetcode_Journey/tree/master/3218-find-number-of-coins-to-place-in-tree-nodes) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/pratham0804/Leetcode_Journey/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Breadth-First Search
 |  |
