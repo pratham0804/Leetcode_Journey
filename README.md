@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/pratham0804/Leetcode_Journey/tree/master/0410-split-array-largest-sum) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/pratham0804/Leetcode_Journey/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2509-minimize-xor](https://github.com/pratham0804/Leetcode_Journey/tree/master/2509-minimize-xor) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/pratham0804/Leetcode_Journey/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/pratham0804/Leetcode_Journey/tree/master/3647-zero-array-transformation-iii) |
 ## Heap (Priority Queue)
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/pratham0804/Leetcode_Journey/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/pratham0804/Leetcode_Journey/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/pratham0804/Leetcode_Journey/tree/master/0231-power-of-two) |
+| [2509-minimize-xor](https://github.com/pratham0804/Leetcode_Journey/tree/master/2509-minimize-xor) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/pratham0804/Leetcode_Journey/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Sliding Window
 |  |
