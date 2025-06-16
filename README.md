@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/pratham0804/Leetcode_Journey/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/pratham0804/Leetcode_Journey/tree/master/0100-same-tree) |
 | [3218-find-number-of-coins-to-place-in-tree-nodes](https://github.com/pratham0804/Leetcode_Journey/tree/master/3218-find-number-of-coins-to-place-in-tree-nodes) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/pratham0804/Leetcode_Journey/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/pratham0804/Leetcode_Journey/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/pratham0804/Leetcode_Journey/tree/master/0100-same-tree) |
 | [3218-find-number-of-coins-to-place-in-tree-nodes](https://github.com/pratham0804/Leetcode_Journey/tree/master/3218-find-number-of-coins-to-place-in-tree-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/pratham0804/Leetcode_Journey/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/pratham0804/Leetcode_Journey/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/pratham0804/Leetcode_Journey/tree/master/0100-same-tree) |
 ## Bucket Sort
 |  |
@@ -261,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/pratham0804/Leetcode_Journey/tree/master/0068-text-justification) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/pratham0804/Leetcode_Journey/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
