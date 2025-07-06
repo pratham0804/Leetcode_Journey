@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/pratham0804/Leetcode_Journey/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/pratham0804/Leetcode_Journey/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/pratham0804/Leetcode_Journey/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/pratham0804/Leetcode_Journey/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/pratham0804/Leetcode_Journey/tree/master/0068-text-justification) |
 | [0090-subsets-ii](https://github.com/pratham0804/Leetcode_Journey/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/pratham0804/Leetcode_Journey/tree/master/0136-single-number) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/pratham0804/Leetcode_Journey/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/pratham0804/Leetcode_Journey/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/pratham0804/Leetcode_Journey/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/pratham0804/Leetcode_Journey/tree/master/0064-minimum-path-sum) |
 | [0097-interleaving-string](https://github.com/pratham0804/Leetcode_Journey/tree/master/0097-interleaving-string) |
 | [0198-house-robber](https://github.com/pratham0804/Leetcode_Journey/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/pratham0804/Leetcode_Journey/tree/master/0410-split-array-largest-sum) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/pratham0804/Leetcode_Journey/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/pratham0804/Leetcode_Journey/tree/master/0200-number-of-islands) |
 | [2737-row-with-maximum-ones](https://github.com/pratham0804/Leetcode_Journey/tree/master/2737-row-with-maximum-ones) |
 ## Bit Manipulation
