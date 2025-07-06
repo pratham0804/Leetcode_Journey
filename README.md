@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/pratham0804/Leetcode_Journey/tree/master/0068-text-justification) |
 | [0090-subsets-ii](https://github.com/pratham0804/Leetcode_Journey/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/pratham0804/Leetcode_Journey/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/pratham0804/Leetcode_Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/pratham0804/Leetcode_Journey/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pratham0804/Leetcode_Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/pratham0804/Leetcode_Journey/tree/master/0162-find-peak-element) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/pratham0804/Leetcode_Journey/tree/master/0064-minimum-path-sum) |
 | [0097-interleaving-string](https://github.com/pratham0804/Leetcode_Journey/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/pratham0804/Leetcode_Journey/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/pratham0804/Leetcode_Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/pratham0804/Leetcode_Journey/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/pratham0804/Leetcode_Journey/tree/master/0410-split-array-largest-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/pratham0804/Leetcode_Journey/tree/master/0967-minimum-falling-path-sum) |
