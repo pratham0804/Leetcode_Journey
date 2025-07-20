@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/pratham0804/Leetcode_Journey/tree/master/0416-partition-equal-subset-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pratham0804/Leetcode_Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/pratham0804/Leetcode_Journey/tree/master/0907-koko-eating-bananas) |
+| [0940-fruit-into-baskets](https://github.com/pratham0804/Leetcode_Journey/tree/master/0940-fruit-into-baskets) |
 | [0967-minimum-falling-path-sum](https://github.com/pratham0804/Leetcode_Journey/tree/master/0967-minimum-falling-path-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/pratham0804/Leetcode_Journey/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/pratham0804/Leetcode_Journey/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/pratham0804/Leetcode_Journey/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/pratham0804/Leetcode_Journey/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/pratham0804/Leetcode_Journey/tree/master/0347-top-k-frequent-elements) |
+| [0940-fruit-into-baskets](https://github.com/pratham0804/Leetcode_Journey/tree/master/0940-fruit-into-baskets) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/pratham0804/Leetcode_Journey/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [3548-find-the-count-of-good-integers](https://github.com/pratham0804/Leetcode_Journey/tree/master/3548-find-the-count-of-good-integers) |
 ## Enumeration
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pratham0804/Leetcode_Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/pratham0804/Leetcode_Journey/tree/master/0219-contains-duplicate-ii) |
+| [0940-fruit-into-baskets](https://github.com/pratham0804/Leetcode_Journey/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/pratham0804/Leetcode_Journey/tree/master/1046-max-consecutive-ones-iii) |
 ## Tree
 |  |
