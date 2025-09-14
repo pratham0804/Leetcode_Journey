@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/pratham0804/Leetcode_Journey/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/pratham0804/Leetcode_Journey/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/pratham0804/Leetcode_Journey/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/pratham0804/Leetcode_Journey/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/pratham0804/Leetcode_Journey/tree/master/0064-minimum-path-sum) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/pratham0804/Leetcode_Journey/tree/master/0044-wildcard-matching) |
 | [0410-split-array-largest-sum](https://github.com/pratham0804/Leetcode_Journey/tree/master/0410-split-array-largest-sum) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/pratham0804/Leetcode_Journey/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2509-minimize-xor](https://github.com/pratham0804/Leetcode_Journey/tree/master/2509-minimize-xor) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/pratham0804/Leetcode_Journey/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/pratham0804/Leetcode_Journey/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/pratham0804/Leetcode_Journey/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/pratham0804/Leetcode_Journey/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/pratham0804/Leetcode_Journey/tree/master/0060-permutation-sequence) |
 | [0203-remove-linked-list-elements](https://github.com/pratham0804/Leetcode_Journey/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/pratham0804/Leetcode_Journey/tree/master/0206-reverse-linked-list) |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/pratham0804/Leetcode_Journey/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/pratham0804/Leetcode_Journey/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/pratham0804/Leetcode_Journey/tree/master/0013-roman-to-integer) |
+| [0044-wildcard-matching](https://github.com/pratham0804/Leetcode_Journey/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/pratham0804/Leetcode_Journey/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/pratham0804/Leetcode_Journey/tree/master/0068-text-justification) |
 | [0097-interleaving-string](https://github.com/pratham0804/Leetcode_Journey/tree/master/0097-interleaving-string) |
