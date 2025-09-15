@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/pratham0804/Leetcode_Journey/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/pratham0804/Leetcode_Journey/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/pratham0804/Leetcode_Journey/tree/master/0068-text-justification) |
+| [0084-largest-rectangle-in-histogram](https://github.com/pratham0804/Leetcode_Journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/pratham0804/Leetcode_Journey/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/pratham0804/Leetcode_Journey/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pratham0804/Leetcode_Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -112,12 +113,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/pratham0804/Leetcode_Journey/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/pratham0804/Leetcode_Journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/pratham0804/Leetcode_Journey/tree/master/0234-palindrome-linked-list) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/pratham0804/Leetcode_Journey/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/pratham0804/Leetcode_Journey/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/pratham0804/Leetcode_Journey/tree/master/0084-largest-rectangle-in-histogram) |
 ## Divide and Conquer
 |  |
 | ------- |
