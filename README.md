@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/pratham0804/Leetcode_Journey/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/pratham0804/Leetcode_Journey/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/pratham0804/Leetcode_Journey/tree/master/1646-kth-missing-positive-number) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/pratham0804/Leetcode_Journey/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2737-row-with-maximum-ones](https://github.com/pratham0804/Leetcode_Journey/tree/master/2737-row-with-maximum-ones) |
 | [3221-find-the-peaks](https://github.com/pratham0804/Leetcode_Journey/tree/master/3221-find-the-peaks) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/pratham0804/Leetcode_Journey/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/pratham0804/Leetcode_Journey/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/pratham0804/Leetcode_Journey/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/pratham0804/Leetcode_Journey/tree/master/0205-isomorphic-strings) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/pratham0804/Leetcode_Journey/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/pratham0804/Leetcode_Journey/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/pratham0804/Leetcode_Journey/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Math
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/pratham0804/Leetcode_Journey/tree/master/0068-text-justification) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/pratham0804/Leetcode_Journey/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Binary Search Tree
 |  |
 | ------- |
