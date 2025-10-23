@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/pratham0804/Leetcode_Journey/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/pratham0804/Leetcode_Journey/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/pratham0804/Leetcode_Journey/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/pratham0804/Leetcode_Journey/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Math
 |  |
 | ------- |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3201-distribute-candies-among-children-ii](https://github.com/pratham0804/Leetcode_Journey/tree/master/3201-distribute-candies-among-children-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/pratham0804/Leetcode_Journey/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/pratham0804/Leetcode_Journey/tree/master/3548-find-the-count-of-good-integers) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/pratham0804/Leetcode_Journey/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Matrix
 |  |
 | ------- |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/pratham0804/Leetcode_Journey/tree/master/0062-unique-paths) |
 | [3201-distribute-candies-among-children-ii](https://github.com/pratham0804/Leetcode_Journey/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/pratham0804/Leetcode_Journey/tree/master/3548-find-the-count-of-good-integers) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/pratham0804/Leetcode_Journey/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Graph
 |  |
 | ------- |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0068-text-justification](https://github.com/pratham0804/Leetcode_Journey/tree/master/0068-text-justification) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/pratham0804/Leetcode_Journey/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/pratham0804/Leetcode_Journey/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -317,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/pratham0804/Leetcode_Journey/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/pratham0804/Leetcode_Journey/tree/master/0182-duplicate-emails) |
+## Number Theory
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/pratham0804/Leetcode_Journey/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
