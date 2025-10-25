@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/pratham0804/Leetcode_Journey/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/pratham0804/Leetcode_Journey/tree/master/0062-unique-paths) |
 | [0231-power-of-two](https://github.com/pratham0804/Leetcode_Journey/tree/master/0231-power-of-two) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/pratham0804/Leetcode_Journey/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [3201-distribute-candies-among-children-ii](https://github.com/pratham0804/Leetcode_Journey/tree/master/3201-distribute-candies-among-children-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/pratham0804/Leetcode_Journey/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/pratham0804/Leetcode_Journey/tree/master/3548-find-the-count-of-good-integers) |
