@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/pratham0804/Leetcode_Journey/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/pratham0804/Leetcode_Journey/tree/master/1646-kth-missing-positive-number) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/pratham0804/Leetcode_Journey/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2169-simple-bank-system](https://github.com/pratham0804/Leetcode_Journey/tree/master/2169-simple-bank-system) |
 | [2737-row-with-maximum-ones](https://github.com/pratham0804/Leetcode_Journey/tree/master/2737-row-with-maximum-ones) |
 | [3221-find-the-peaks](https://github.com/pratham0804/Leetcode_Journey/tree/master/3221-find-the-peaks) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/pratham0804/Leetcode_Journey/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/pratham0804/Leetcode_Journey/tree/master/0347-top-k-frequent-elements) |
 | [0940-fruit-into-baskets](https://github.com/pratham0804/Leetcode_Journey/tree/master/0940-fruit-into-baskets) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/pratham0804/Leetcode_Journey/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2169-simple-bank-system](https://github.com/pratham0804/Leetcode_Journey/tree/master/2169-simple-bank-system) |
 | [3548-find-the-count-of-good-integers](https://github.com/pratham0804/Leetcode_Journey/tree/master/3548-find-the-count-of-good-integers) |
 ## Enumeration
 |  |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0068-text-justification](https://github.com/pratham0804/Leetcode_Journey/tree/master/0068-text-justification) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/pratham0804/Leetcode_Journey/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2169-simple-bank-system](https://github.com/pratham0804/Leetcode_Journey/tree/master/2169-simple-bank-system) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/pratham0804/Leetcode_Journey/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Binary Search Tree
 |  |
@@ -326,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/pratham0804/Leetcode_Journey/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Design
+|  |
+| ------- |
+| [2169-simple-bank-system](https://github.com/pratham0804/Leetcode_Journey/tree/master/2169-simple-bank-system) |
 <!---LeetCode Topics End-->
