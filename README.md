@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/pratham0804/Leetcode_Journey/tree/master/1646-kth-missing-positive-number) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/pratham0804/Leetcode_Journey/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/pratham0804/Leetcode_Journey/tree/master/2169-simple-bank-system) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/pratham0804/Leetcode_Journey/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2737-row-with-maximum-ones](https://github.com/pratham0804/Leetcode_Journey/tree/master/2737-row-with-maximum-ones) |
 | [3221-find-the-peaks](https://github.com/pratham0804/Leetcode_Journey/tree/master/3221-find-the-peaks) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/pratham0804/Leetcode_Journey/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/pratham0804/Leetcode_Journey/tree/master/0205-isomorphic-strings) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/pratham0804/Leetcode_Journey/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/pratham0804/Leetcode_Journey/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/pratham0804/Leetcode_Journey/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/pratham0804/Leetcode_Journey/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/pratham0804/Leetcode_Journey/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Math
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/pratham0804/Leetcode_Journey/tree/master/0062-unique-paths) |
 | [0231-power-of-two](https://github.com/pratham0804/Leetcode_Journey/tree/master/0231-power-of-two) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/pratham0804/Leetcode_Journey/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/pratham0804/Leetcode_Journey/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3201-distribute-candies-among-children-ii](https://github.com/pratham0804/Leetcode_Journey/tree/master/3201-distribute-candies-among-children-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/pratham0804/Leetcode_Journey/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/pratham0804/Leetcode_Journey/tree/master/3548-find-the-count-of-good-integers) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/pratham0804/Leetcode_Journey/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/pratham0804/Leetcode_Journey/tree/master/0200-number-of-islands) |
 | [0967-minimum-falling-path-sum](https://github.com/pratham0804/Leetcode_Journey/tree/master/0967-minimum-falling-path-sum) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/pratham0804/Leetcode_Journey/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2737-row-with-maximum-ones](https://github.com/pratham0804/Leetcode_Journey/tree/master/2737-row-with-maximum-ones) |
 ## Bit Manipulation
 |  |
