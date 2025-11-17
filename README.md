@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/pratham0804/Leetcode_Journey/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/pratham0804/Leetcode_Journey/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/pratham0804/Leetcode_Journey/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/pratham0804/Leetcode_Journey/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/pratham0804/Leetcode_Journey/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/pratham0804/Leetcode_Journey/tree/master/1646-kth-missing-positive-number) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/pratham0804/Leetcode_Journey/tree/master/2137-final-value-of-variable-after-performing-operations) |
