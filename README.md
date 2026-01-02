@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/pratham0804/Leetcode_Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/pratham0804/Leetcode_Journey/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/pratham0804/Leetcode_Journey/tree/master/0940-fruit-into-baskets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/pratham0804/Leetcode_Journey/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0967-minimum-falling-path-sum](https://github.com/pratham0804/Leetcode_Journey/tree/master/0967-minimum-falling-path-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/pratham0804/Leetcode_Journey/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/pratham0804/Leetcode_Journey/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/pratham0804/Leetcode_Journey/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/pratham0804/Leetcode_Journey/tree/master/0347-top-k-frequent-elements) |
 | [0940-fruit-into-baskets](https://github.com/pratham0804/Leetcode_Journey/tree/master/0940-fruit-into-baskets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/pratham0804/Leetcode_Journey/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/pratham0804/Leetcode_Journey/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2169-simple-bank-system](https://github.com/pratham0804/Leetcode_Journey/tree/master/2169-simple-bank-system) |
 | [3548-find-the-count-of-good-integers](https://github.com/pratham0804/Leetcode_Journey/tree/master/3548-find-the-count-of-good-integers) |
