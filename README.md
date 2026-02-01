@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/pratham0804/Leetcode_Journey/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/pratham0804/Leetcode_Journey/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2737-row-with-maximum-ones](https://github.com/pratham0804/Leetcode_Journey/tree/master/2737-row-with-maximum-ones) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/pratham0804/Leetcode_Journey/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3221-find-the-peaks](https://github.com/pratham0804/Leetcode_Journey/tree/master/3221-find-the-peaks) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/pratham0804/Leetcode_Journey/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/pratham0804/Leetcode_Journey/tree/master/3647-zero-array-transformation-iii) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/pratham0804/Leetcode_Journey/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/pratham0804/Leetcode_Journey/tree/master/3201-distribute-candies-among-children-ii) |
 | [3221-find-the-peaks](https://github.com/pratham0804/Leetcode_Journey/tree/master/3221-find-the-peaks) |
 | [3548-find-the-count-of-good-integers](https://github.com/pratham0804/Leetcode_Journey/tree/master/3548-find-the-count-of-good-integers) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/pratham0804/Leetcode_Journey/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/pratham0804/Leetcode_Journey/tree/master/0018-4sum) |
 | [0347-top-k-frequent-elements](https://github.com/pratham0804/Leetcode_Journey/tree/master/0347-top-k-frequent-elements) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/pratham0804/Leetcode_Journey/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3218-find-number-of-coins-to-place-in-tree-nodes](https://github.com/pratham0804/Leetcode_Journey/tree/master/3218-find-number-of-coins-to-place-in-tree-nodes) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/pratham0804/Leetcode_Journey/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/pratham0804/Leetcode_Journey/tree/master/3647-zero-array-transformation-iii) |
